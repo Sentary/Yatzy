@@ -1,4 +1,4 @@
-package com.github.emilybache.rules;
+package com.github.emilybache.scoring;
 
 import java.util.EnumMap;
 
